@@ -140,3 +140,11 @@ A Linux terminal, also called a `shell` or command line, provides a text-based i
 
 Besides Bash, there also exist other shells like zsh,ksh and so on
 ```
+
+``` 
+https://infosec-jobs.com/insights/linux-explained/
+https://dhaameel.medium.com/the-power-and-history-of-kali-linux-154f6fee8f3b
+https://academy.hackthebox.com/module/15/section/33
+https://academy.hackthebox.com/module/18/section/65
+
+```
