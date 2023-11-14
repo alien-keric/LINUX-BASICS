@@ -127,8 +127,16 @@ The following is the linux file  hierarchy
 - /root (The home directory for the root user.)
 ```
 
-#### Linux Fundamentals
+#### Linux Commands
+```
+As a hacker you probably need to know how to interact with command line i.e terminal or cmd or powershell.
 
-### Module Summary
+In linux everything is a files  
+```
 
-Linux is an indispensable tool and system in the field of cybersecurity. Many servers run on Linux and offer a wide range of possibilities for offensive security practitioners, network defenders, and systems administrators. This module covers the essentials for starting with the Linux operating system and terminal.
+## Introduction to shell
+```
+A Linux terminal, also called a `shell` or command line, provides a text-based input/output (I/O) interface between users and the kernel for a computer system. The term console is also typical but does not refer to a window but a screen in text mode. In the terminal window, commands can be executed to control the system
+
+Besides Bash, there also exist other shells like zsh,ksh and so on
+```
